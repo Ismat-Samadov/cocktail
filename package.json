@@ -1,5 +1,5 @@
 "scripts": {
-  "start": "node app.js",  
+  "start": "node app.js",
   "build": "npm install",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d public" 
