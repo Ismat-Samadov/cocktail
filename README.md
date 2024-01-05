@@ -8,8 +8,7 @@ Welcome to the Random Cocktail App! This simple web application fetches and disp
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Getting Started
 
 ### Prerequisites
