@@ -1,46 +1,24 @@
-# Random Cocktail App
+# Random Cocktail Generator Web App
 
-Welcome to the Random Cocktail App! This simple web application fetches and displays information about random cocktails using the [TheCocktailDB API](https://www.thecocktaildb.com/api.php).
+This web app allows you to generate and display random cocktail recipes using TheCocktailDB API. The app is built using HTML, CSS, and JavaScript.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-  
-## Getting Started
+## Files
 
-### Prerequisites
-- Node.js installed on your machine
-- npm or yarn package manager
+- **index.html**: The main HTML file containing the structure of the web page.
+- **styles.css**: The CSS file for styling the web page.
+- **script.js**: The JavaScript file for fetching and displaying random cocktail information.
 
-### Installation
-1. Clone the repository: `git clone https://github.com/Ismat-Samadov/cocktail.git`
-2. Navigate to the project directory: `cd random-cocktail-app`
-3. Install dependencies: `npm install` or `yarn install`
+## How to Use
 
-## Features
-- Fetch and display information about a random cocktail.
-- Clean and simple user interface.
-- Responsive design for various screen sizes.
+1. Open the `index.html` file in a web browser.
+2. Click the "Get Random Cocktail" button to fetch and display a new random cocktail recipe.
+3. The cocktail image, name, category, instructions, and ingredients will be shown on the page.
 
-## Usage
+## Preview
 
-1. Run the application: `npm start` or `yarn start`
-2. Open your web browser and go to `http://localhost:3000` (or the specified port)
-3. Click the "Fetch Random Cocktail" button to get a new random cocktail.
+![Random Cocktail Generator](screenshot.png)
 
-## Dependencies
-- Express: for building the server-side application.
-- Axios: for making HTTP requests.
-- CORS: for handling cross-origin resource sharing.
+## Credits
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-1. Fork the repository.
-2. Create your branch: `git checkout -b feature/new-feature`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature/new-feature`
-5. Open a pull request.
+- Cocktail information fetched from [TheCocktailDB](https://www.thecocktaildb.com/).
+- Images sourced from TheCocktailDB.
