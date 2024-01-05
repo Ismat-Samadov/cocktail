@@ -7,7 +7,7 @@
     "start": "node app.js",
     "build": "npm install",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d public",
+    "deploy": "gh-pages -d public -t true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
