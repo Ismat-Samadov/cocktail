@@ -16,7 +16,7 @@ Welcome to the Random Cocktail App! This simple web application fetches and disp
 - npm or yarn package manager
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/random-cocktail-app.git`
+1. Clone the repository: `git clone https://github.com/Ismat-Samadov/cocktail.git`
 2. Navigate to the project directory: `cd random-cocktail-app`
 3. Install dependencies: `npm install` or `yarn install`
 
