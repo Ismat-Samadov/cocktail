@@ -1,3 +1,9 @@
+"scripts": {
+  "start": "node yapp.js",  
+  "build": "npm install",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d public" 
+},
 {
   "name": "cocktail",
   "version": "1.0.0",
