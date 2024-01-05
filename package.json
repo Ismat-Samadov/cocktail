@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d public -t true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://ismat-samadov.github.io/cocktail/",
   "keywords": [],
   "author": "",
   "license": "ISC",
